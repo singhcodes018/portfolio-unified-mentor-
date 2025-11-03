@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Tic Tac Toe",
+    "desc": "Interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. Features player vs player mode with win detection and score tracking.",
+    "image": "jspro",
+    "category": "javascript",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "To Do List",
+    "desc": "Modern task management application with add, edit, delete, and mark complete functionality. Built using HTML, CSS, and JavaScript with local storage support.",
+    "image": "linklist",
+    "category": "javascript",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Recipe Book",
+    "desc": "Comprehensive recipe management system where users can browse, search, and save their favorite recipes. Built with modern web technologies.",
+    "image": "foodwebsite",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Catering Management",
+    "desc": "Full-featured catering management system for managing orders, menus, customer details, and event bookings. Streamlines catering business operations.",
+    "image": "foodicious",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Hospital Management",
+    "desc": "Complete hospital management system with patient registration, appointment scheduling, doctor management, and medical records tracking.",
+    "image": "basicbank",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
